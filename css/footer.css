@@ -1,0 +1,38 @@
+#footer {
+    background-color: rgb(43, 5, 4);
+}
+
+.custom-shape-divider-bottom-1672243727 {
+
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1672243727 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 58px;
+}
+
+.custom-shape-divider-bottom-1672243727 .shape-fill {
+    fill: rgb(43, 5, 4);
+}
+
+#social{
+    padding: 8px;
+    border-radius: 50%;
+    background-color:white ;
+    color: rgb(0, 0, 0);
+    transition: 0.5s;
+}
+
+#social:hover{
+    padding: 8px;
+    background-color:rgb(154, 78, 7);  ;
+    color: aliceblue;
+}
